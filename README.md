@@ -265,6 +265,7 @@ Official integrations are maintained by companies building production ready MCP 
 - **[Sentry](https://github.com/getsentry/sentry-mcp)** - Official MCP server for [Sentry](https://sentry.io).
 - **[SingleStore](https://github.com/singlestore-labs/mcp-server-singlestore)** - Interact with the SingleStore database platform
 - **[SlideSpeak](https://github.com/SlideSpeak/slidespeak-mcp)** - Create presentations and PowerPoints using AI and SlideSpeak MCP
+- **[SkillDB](https://github.com/latentsmurf/SkillDB)** - Agent skill library with 5,600+ specialist skills across 37 domains. 10 MCP tools for autonomous discovery and loading of expert-level instructions (security audits, code review, React performance, etc.). Install: `npx skilldb-mcp`. Works with Claude Code, Cursor, Windsurf.
 - **[SonarQube](https://github.com/SonarSource/sonarqube-mcp-server)** - Provides seamless integration with [SonarQube](https://www.sonarsource.com/) Server or Cloud, and enables analysis of code snippets directly within the agent context
 - **[ShopSavvy](https://github.com/shopsavvy/shopsavvy-mcp-server)** - Complete product and pricing data solution for AI assistants. Search for products by barcode/ASIN/URL, access detailed product metadata, access comprehensive pricing data from thousands of retailers, view and track price history, and more. Published as `@shopsavvy/mcp-server`.
 - **[Supabase](https://github.com/supabase-community/supabase-mcp)** - Connects to Supabase platform for database, auth, edge functions and more.
