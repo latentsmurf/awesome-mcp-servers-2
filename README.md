@@ -1,3 +1,20 @@
+## About this fork
+
+A curated directory associated with mcpservers.org, retained as a public fork. Its value is discovery metadata and upstream attribution, rather than a fleet of servers operated by this account.
+
+This fork was reviewed on 2026-09-10 at `a4316c7bcdfd5221a75bd1dc72442b3a66017638`. The upstream catalog and attribution are preserved below. No upstream synchronization or live verification of every listed resource was performed.
+
+Current repository capabilities:
+
+- **Server directory** — The root README contains the curated resource list.
+
+- Listed servers are external projects; inclusion is not installation, operation, endorsement, or a working ecosystem connection.
+- Catalog freshness is limited to the captured fork; no upstream merge was performed in this audit.
+
+Use the installation, license, and security documentation of each referenced project before enabling it. The catalog is a discovery resource; it does not provision those tools.
+
+---
+
 # Awesome MCP Servers
 
 > [!NOTE]
